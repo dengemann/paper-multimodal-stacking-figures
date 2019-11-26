@@ -1,0 +1,12 @@
+*_pycache_*
+.*
+!.gitignore
+.Rproj.user
+*.log
+*.swp
+*.aux
+*.out
+*.bbl
+*.blg
+*.DS_store
+
